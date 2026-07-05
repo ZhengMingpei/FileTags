@@ -5,7 +5,9 @@
 
 FileTags 是一个基于 PySide2 开发的跨平台（Windows、Linux）文件标签管理工具，帮助用户通过标签系统高效整理和检索文件。
 
-当前版本下载连接：[github下载链接](https://github.com/ZhengMingpei/FileTags/releases/tag/FileTags-v2026.07-beta.1)
+**因github国内不稳定，安装包可通过QQ群共享文件获取，qq交流群搜FileTags或者群号1051039298。**
+
+github下载连接：[github下载链接](https://github.com/ZhengMingpei/FileTags/releases/tag/FileTags-v2026.07-beta.1)
 
 ![tags](imgs/截图%202026-07-04%2022-52-29.png)
 
