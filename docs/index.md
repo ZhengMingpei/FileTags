@@ -1,11 +1,15 @@
 # FileTags
 跨平台文件标签管理工具，让文件整理更高效
 
-**软件仍在快速迭代，功能尚不稳定，暂提供测试版（v2026.07-beta.3）。**
-
 FileTags 是一个基于 PySide2 开发的跨平台（Windows、Linux）文件标签管理工具，帮助用户通过标签系统高效整理和检索文件。
 
-**因github国内不稳定，安装包可通过QQ群共享文件获取，qq交流群搜FileTags或者群号1051039298。**
+**软件仍在快速迭代，功能尚不稳定，暂提供测试版（v2026.07-beta.3）。**
+
+❤ 软件所有功能免费，可以到[作者B站主页](https://space.bilibili.com/32918983)查看相关介绍视频及充电支持项目发展。❤
+
+**因github国内不稳定，安装包可通过下方gitee链接下载（周更或月更），或QQ群共享文件获取（更新频率较快，版本较新），qq交流群搜FileTags或者群号1051039298。**
+
+gitee下载链接：[gitee下载链接](https://gitee.com/zhengmingpei/FileTags/releases/download/v2026.07-beta.3/FileTags-v2026.07-beta.3%2042fc5a3-windows-amd64.zip)
 
 github下载连接：[github下载链接](https://github.com/ZhengMingpei/FileTags/releases/tag/v2026.07-beta.3)
 

@@ -1,6 +1,16 @@
 # FileTags
 FileTags是一款跨平台（Windows/Linux）的桌面工具软件，可以给文件、目录打标签，并基于标签进行快速检索。
 
+**软件仍在快速迭代，功能尚不稳定，暂提供测试版（v2026.07-beta.3）。**
+
+❤ 软件所有功能免费，可以到[作者B站主页](https://space.bilibili.com/32918983)查看相关介绍视频及充电支持项目发展。❤
+
+**因github国内不稳定，安装包可通过下方gitee链接下载（周更或月更），或QQ群共享文件获取（更新频率较快，版本较新），qq交流群搜FileTags或者群号1051039298。**
+
+gitee下载链接：[gitee下载链接](https://gitee.com/zhengmingpei/FileTags/releases/download/v2026.07-beta.3/FileTags-v2026.07-beta.3%2042fc5a3-windows-amd64.zip)
+
+github下载连接：[github下载链接](https://github.com/ZhengMingpei/FileTags/releases/tag/v2026.07-beta.3)
+
 v2026.07-beta.3更新日志
 ### 新功能
 - 固定数据库路径，新增迁移向导对话框
